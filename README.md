@@ -1,4 +1,4 @@
-**This model is not up to production staderd**
+**This model is not up to the production standards**
 
 ---
 
